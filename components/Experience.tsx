@@ -2,8 +2,8 @@
 
 import { motion } from 'framer-motion'
 import { HiCalendar, HiLocationMarker } from 'react-icons/hi'
-import { FaPython, FaReact, FaDocker } from 'react-icons/fa'
-import { SiTypescript, SiPostgresql, SiRedis, SiAws } from 'react-icons/si'
+import { FaPython, FaReact, FaDocker, FaAws } from 'react-icons/fa'
+import { SiTypescript, SiPostgresql, SiRedis } from 'react-icons/si'
 
 export default function Experience() {
   const experiences = [

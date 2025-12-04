@@ -11,6 +11,7 @@ import {
   FaHtml5,
   FaCss3Alt,
   FaJs,
+  FaBrain,
 } from 'react-icons/fa'
 import {
   SiNextdotjs,
@@ -23,7 +24,6 @@ import {
   SiFlask,
   SiFastapi,
   SiNodedotjs,
-  SiHuggingface,
 } from 'react-icons/si'
 import { TbBrandReactNative } from 'react-icons/tb'
 
@@ -58,7 +58,7 @@ export default function Skills() {
       skills: [
         { name: 'TensorFlow', icon: SiTensorflow, level: 85 },
         { name: 'PyTorch', icon: SiPytorch, level: 80 },
-        { name: 'Hugging Face', icon: SiHuggingface, level: 80 },
+        { name: 'Hugging Face', icon: FaBrain, level: 80 },
         { name: 'scikit-learn', icon: FaPython, level: 85 },
       ],
       color: 'purple',

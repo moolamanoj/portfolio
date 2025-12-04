@@ -2,8 +2,8 @@
 
 import { motion } from 'framer-motion'
 import { HiExternalLink, HiCode } from 'react-icons/hi'
-import { FaReact, FaPython, FaAws } from 'react-icons/fa'
-import { SiNextdotjs, SiFlask, SiTensorflow, SiHuggingface } from 'react-icons/si'
+import { FaReact, FaPython, FaAws, FaBrain } from 'react-icons/fa'
+import { SiNextdotjs, SiFlask, SiTensorflow } from 'react-icons/si'
 
 export default function Projects() {
   const projects = [
@@ -32,7 +32,7 @@ export default function Projects() {
         'Deployed on AWS EC2 with responsive front-end interface',
       ],
       technologies: ['Python', 'Flask', 'BERT', 'Pegasus', 'AWS', 'React'],
-      icon: SiHuggingface,
+      icon: FaBrain,
       color: 'from-purple-500 to-pink-500',
     },
     {
