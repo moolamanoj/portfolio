@@ -161,31 +161,30 @@ export default function Contact() {
             className="bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg p-8 text-white flex flex-col justify-center"
           >
             <h3 className="text-2xl font-bold mb-4">
-              Ready to Work Together?
+              Let's Collaborate
             </h3>
             <p className="text-primary-100 mb-6 leading-relaxed">
-              I'm excited about the opportunity to contribute to{' '}
-              <strong>cybercup.ai</strong> as a Front-End Developer. With my
-              background in AI/ML and growing expertise in modern front-end
-              technologies, I'm ready to help build engaging and professional
-              interfaces for AI and cybersecurity competitions.
+              I'm passionate about building innovative solutions that combine
+              cutting-edge AI/ML technologies with intuitive user interfaces.
+              Whether you're looking for a front-end developer, AI engineer, or
+              someone who bridges both worlds, I'd love to hear about your project.
             </p>
             <div className="space-y-3">
               <div className="flex items-center gap-2">
                 <span className="text-primary-200">✓</span>
-                <span>Available for immediate start</span>
+                <span>Open to new opportunities and projects</span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="text-primary-200">✓</span>
-                <span>Part-time (10-20 hours/week)</span>
+                <span>Available for freelance and contract work</span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="text-primary-200">✓</span>
-                <span>Remote or on-site in Norfolk, VA</span>
+                <span>Remote-friendly, based in Norfolk, VA</span>
               </div>
             </div>
             <motion.a
-              href="mailto:moolamanoj7@gmail.com?subject=Front-End Developer Position - cybercup.ai"
+              href="mailto:moolamanoj7@gmail.com?subject=Let's Connect"
               className="mt-6 inline-block bg-white text-primary-600 px-6 py-3 rounded-lg font-semibold text-center hover:bg-primary-50 transition-colors"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}

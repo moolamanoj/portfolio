@@ -77,10 +77,10 @@ export default function About() {
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
               I'm excited to bring my technical skills, attention to detail, and
-              collaborative mindset to the{' '}
-              <strong>cybercup.ai</strong> team, where I can contribute to
-              building engaging and professional interfaces for AI and
-              cybersecurity competitions.
+              collaborative mindset to projects that push the boundaries of what's
+              possible. Whether it's building engaging user interfaces, integrating
+              AI capabilities, or solving complex technical challenges, I'm always
+              ready to contribute to innovative solutions.
             </p>
           </motion.div>
 

@@ -1,6 +1,6 @@
 # Manoj Kumar Moola - Portfolio Website
 
-A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS. This portfolio showcases my experience as a Front-End Developer and AI Engineer, specifically tailored for the Front-End Developer position at cybercup.ai.
+A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS. This portfolio showcases my experience as a Front-End Developer and AI Engineer, highlighting projects, skills, and professional experience.
 
 ## Features
 
