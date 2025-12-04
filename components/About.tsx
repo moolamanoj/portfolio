@@ -40,9 +40,9 @@ export default function About() {
     },
     {
       icon: HiAcademicCap,
-      title: 'Continuous Learning',
+      title: 'Education & Continuous Learning',
       description:
-        'Currently pursuing M.S. in Computer Science with focus on ML, NLP, and software engineering. Always learning and adapting to new technologies.',
+        'Graduated with M.S. in Computer Science from Old Dominion University (May 2025) with focus on ML, NLP, and software engineering. Always learning and adapting to new technologies.',
     },
   ]
 
@@ -69,8 +69,8 @@ export default function About() {
               that seamlessly integrate complex AI systems.
             </p>
             <p className="text-lg text-gray-700 mb-4 leading-relaxed">
-              Currently pursuing my <strong>M.S. in Computer Science</strong> at
-              Old Dominion University, I'm passionate about creating clean,
+              I recently graduated with my <strong>M.S. in Computer Science</strong> from
+              Old Dominion University (May 2025). I'm passionate about creating clean,
               responsive, and accessible web applications. I specialize in
               React, Next.js, and TypeScript, with experience in designing,
               training, and integrating ML models into production-ready systems.
